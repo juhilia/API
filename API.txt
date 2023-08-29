@@ -1,0 +1,8 @@
+EXEMPLO:
+
+
+ Você tem um app que fornece a previsão do tempo, porém o app não fornece esses dados meteorológicos diariamente. Para que você consiga esses dados é necessário pegar as API’S de um provedor externo. Fazendo isso é possível fazer a solicitação em uma API sobre a previsão do tempo de um determinada cidade, após isso um pedido é enviado, especificando a cidade de interesse e sua chave de API (um código que identifica você como desenvolvedor autorizado a usar a API) .A API processa  a solicitação e retorna uma resposta formatada contendo os dados meteorológicos da cidade solicitada.O app recebe a resposta da API e extrai as informações relevantes, como temperatura, condições climáticas, etc. Em seguida, ele exibe essas informações de maneira amigável para os usuários.
+
+
+
+Resumindo, uma API funciona como um intermediário que permite que seu aplicativo interaja com serviços externos ou recursos sem precisar entender todos os detalhes internos do funcionamento desses serviços. 
